@@ -16,16 +16,16 @@ The work submitted for this project is the work of the student who submitted it.
 *EXPLANATION OF CODE*
 0. Installing package and setting WD
 1. Downloading and unzipping file with data
-  a. Downloading and putting into a folder
-  b. Unzipping file
+ **a**. Downloading and putting into a folder
+ **b**. Unzipping file
 2. Reading the data
-  a. Reading activity file
-  b. Reading Subject file
-  c. Reading feature file
+ **a**. Reading activity file
+ **b**. Reading Subject file
+ **c**. Reading feature file
 3. Merging the training and the test datasets to create one dataset
-  a. Concatenate the data tables by rows
-  b. Naming the cols
-  c. Merging the data
+ **a**. Concatenate the data tables by rows
+ **b**. Naming the cols
+ **c**. Merging the data
 4. Extracting only the means and st. deviations for each measurement
 5. Appropriately labels the data set with descriptive variable names
 6. Creating a second, independent tidy dataset with the average of each variable for each activity and each subject
